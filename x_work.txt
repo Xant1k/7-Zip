@@ -1,5 +1,0 @@
-d:\work\temp
-~$*.doc
-~*.tmp
-~$$*.~vsd
-Thumbs.db
